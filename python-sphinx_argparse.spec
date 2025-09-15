@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Rozszerzenie Sphinksa automatycznie dokumentujące polecenia 
 Name:		python-sphinx_argparse
 # keep 0.2.x here for python2 support
 Version:	0.2.5
-Release:	4
+Release:	5
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-argparse/
